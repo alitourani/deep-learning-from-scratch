@@ -11,5 +11,5 @@ Here, you can get access to the presentation slides and course materials. Please
 
 ## 🔗 References
 
-[1] [IntroToDeepLearning](http://www.IntroToDeepLearning.com "IntroToDeepLearning website")
-[2] [TowardsDataScience](https://www.towardsdatascience.com "TowardsDataScience")
+1. [IntroToDeepLearning](http://www.IntroToDeepLearning.com "IntroToDeepLearning website")
+2. [TowardsDataScience](https://www.towardsdatascience.com "TowardsDataScience")
