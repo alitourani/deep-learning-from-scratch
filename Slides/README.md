@@ -14,3 +14,4 @@ Here, you can get access to the presentation slides and course materials. Please
 
 1. [IntroToDeepLearning](http://www.IntroToDeepLearning.com "IntroToDeepLearning website")
 2. [TowardsDataScience](https://www.towardsdatascience.com "TowardsDataScience")
+3. [DeepLearningAI](https://www.deeplearning.ai/ "DeepLearningAI")
