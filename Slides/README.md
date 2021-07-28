@@ -9,6 +9,7 @@ Here, you can get access to the presentation slides and course materials. Please
 | [Greetings!](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/0-Greetings.pdf "Greetings!") | Introduces the instructor and scope of the course |
 | [Introduction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/1-Basics.pdf "Introduction") | Presents an introduction about Deep Learning |
 | [Working with Data](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/2-Working%20with%20Data.pdf "Introduction") | Learn more about the importance of data in DL |
+| [Feeding DNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/3-Feeding%20DNNs.pdf "Feeding DNNs") | Introducing network tuning and how to avoid overfitting/underfitting |
 
 
 ## 🔗 References
@@ -16,3 +17,5 @@ Here, you can get access to the presentation slides and course materials. Please
 1. [IntroToDeepLearning](http://www.IntroToDeepLearning.com "IntroToDeepLearning website")
 2. [TowardsDataScience](https://www.towardsdatascience.com "TowardsDataScience")
 3. [DeepLearningAI](https://www.deeplearning.ai/ "DeepLearningAI")
+4. [DeepSense](https://www.deepsense.ai/ "DeepSense")
+5. [MachineLearningMastry](https://machinelearningmastery.com/ "MachineLearningMastry")
