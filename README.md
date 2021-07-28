@@ -8,6 +8,14 @@ This repository contains course materials and sample impelemented codes of the *
 - Participating in the development of real-world projects
 - Conducting some academic researches
 
-## Contents
+## 📚 Contents
 
 - [Slides](https://github.com/alitourani/deep-learning-from-scratch "Slides")
+
+## 🔗 References
+
+1. [IntroToDeepLearning](http://www.IntroToDeepLearning.com "IntroToDeepLearning website")
+2. [TowardsDataScience](https://www.towardsdatascience.com "TowardsDataScience")
+3. [DeepLearningAI](https://www.deeplearning.ai/ "DeepLearningAI")
+4. [DeepSense](https://www.deepsense.ai/ "DeepSense")
+5. [MachineLearningMastry](https://machinelearningmastery.com/ "MachineLearningMastry")
