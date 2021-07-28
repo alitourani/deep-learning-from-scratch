@@ -8,5 +8,6 @@ This repository contains course materials and sample impelemented codes of the *
 - Participating in the development of real-world projects
 - Conducting some academic researches
 
-## Glossary
+## Contents
 
+- [Slides](https://github.com/alitourani/deep-learning-from-scratch "Slides")
