@@ -6,4 +6,7 @@ This repository contains course materials and sample impelemented codes of the *
 
 - Gaining fundamental understanding of DL capabilities
 - Participating in the development of real-world projects
-- Publishing the outcomes in high quality journals and applications
+- Conducting some academic researches
+
+## Glossary
+
