@@ -10,7 +10,8 @@ This repository contains course materials and sample impelemented codes of the *
 
 ## 📚 Contents
 
-- [Slides](https://github.com/alitourani/deep-learning-from-scratch "Slides")
+- [Slides](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Slides "Slides")
+- [Codes](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes "Codes")
 
 ## 🔗 References
 
