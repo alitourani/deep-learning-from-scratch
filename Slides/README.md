@@ -11,6 +11,7 @@ Here, you can get access to the presentation slides and course materials. Please
 | [Working with Data](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/2-Working%20with%20Data.pdf "Introduction") | Learn more about the importance of data in DL |
 | [Feeding DNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/3-Feeding%20DNNs.pdf "Feeding DNNs") | Introducing network tuning and how to avoid overfitting/underfitting |
 | [Hardware and Platforms](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/4-Hardware%20and%20Platforms.pdf "Hardware and Platforms") | How to start working with Google Colab and its facilities for DL |
+| [Frameworks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/5-Frameworks.pdf "Frameworks") | Introduces popular frameworks for deep learning |
 
 
 
