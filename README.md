@@ -1,6 +1,6 @@
 # Deep Learning from Scratch
 
-![AliTourani-DeepLearningFromScratch](https://github.com/alitourani/deep-learning-from-scratch/blob/main/AliTourani-DeepLearningFromScratch-Course.png "AliTourani-DeepLearningFromScratch")
+![AliTourani-DeepLearningFromScratch](https://github.com/alitourani/deep-learning-from-scratch/blob/main/_content/AliTourani-DeepLearningFromScratch-Course.png "AliTourani-DeepLearningFromScratch")
 
 This repository contains course materials and sample impelemented codes of the **Deep Learning from Scratch** program held on Summer 2021. The main goal of this course is:
 
