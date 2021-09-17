@@ -4,6 +4,12 @@ In contrast with Feed-Forward NNs in which the information is only passed in one
 
 ![RNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/_content/AliTourani-DeepLearningFromScratch-RecurrentNeuralNetwork-RNN.png "RNNs")
 
+## 📚 Codes
+
+| # | File | Description |
+| --- | ------------ | ------------ |
+| 0 | [RNN layers](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/RNNs/0_KerasRecurrentLayers.ipynb "RNN layers") | Introduction to Keras RNN layers |
+
 ## 🧩 Use cases (to be added)
 - Image captioning
 - Sentiment classification
