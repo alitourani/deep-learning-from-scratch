@@ -13,6 +13,7 @@ Here, you can get access to the presentation slides and course materials. Please
 | 4 | [Hardware and Platforms](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/4-Hardware%20and%20Platforms.pdf "Hardware and Platforms") | How to start working with Google Colab and its facilities for DL |
 | 5 | [Frameworks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/5-Frameworks.pdf "Frameworks") | Introduces popular frameworks for deep learning |
 | 6 | [Recurrent Neural Networks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/6-Recurrent%20Neural%20Networks.pdf "Recurrent Neural Networks") | How to handle sequential data? |
+| 7 | [Convolutional Neural Networks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/7-Convolutional%20Neural%20Networks.pdf "Convolutional Neural Networks") | Let's work on visual features! |
 
 
 
