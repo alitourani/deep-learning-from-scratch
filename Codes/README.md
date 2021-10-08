@@ -9,7 +9,7 @@ Here, you can get access to the sample implementations of ML and DL codes in Pyt
 | 0 | [Getting Started with Google Colab](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/00_Getting_Started_with_Google_Colab.ipynb "Getting Started with Google Colab") | Google Colab |
 | 1 | [So Far with Keras](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/01_So_Far_With_Keras.ipynb "So Far with Keras") | Implementation of the concepts presented before Slide-5 |
 | 2 | [Recurrent Neural Networks (RNNs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/RNNs "Recurrent Neural Networks (RNNs)") | Sample applications of RNNs |
-| 3 | [Convolutional Neural Networks (RNNs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Convolutional Neural Networks (CNNs)") | Sample applications of CNNs |
+| 3 | [Convolutional Neural Networks (CNNs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Convolutional Neural Networks (CNNs)") | Sample applications of CNNs |
 
 ## ⚙️ Pre-requistics
 
