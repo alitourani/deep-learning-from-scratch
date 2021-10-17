@@ -8,7 +8,7 @@ CNNs can easily handle sequential data processing.
 
 | # | File | Description |
 | --- | ------------ | ------------ |
-| 0 | [Intro to CNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/RNNs/0_KerasConvolutionLayers.ipynb "Intro to CNNs") | An introduction to Keras CNN layers |
+| 0 | [Intro to CNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/0_KerasConvolutionLayer.ipynb "Intro to CNNs") | An introduction to Keras CNN layers |
 
 ## 🧩 Use cases (to be added)
 - Digit classification
