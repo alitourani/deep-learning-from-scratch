@@ -11,6 +11,7 @@ CNNs can easily handle sequential data processing.
 | 0 | [CNN layers](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/RNNs/0_KerasConvolutionLayers.ipynb "CNN layers") | Introduction to Keras CNN layers |
 
 ## 🧩 Use cases (to be added)
+- Digit classification
 - Abandoned Object Detection
 - Text Translation
 - Face Recognition
