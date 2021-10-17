@@ -1,6 +1,6 @@
 # Convolutional Neural Networks (CNNs)
 
-CNNs can easily handle sequential data processing.
+CNNs (ConvNets) utilize the mathematical foundation of convolution for computer vision tasks. Inspired by the organization of the Visual Cortex, CNNs can provide much lower pre-processing comparing to other classification algorithms. These networks can automatically learn the filters and characteristics of the input images. In contrast with regular NNs, the layers of a CNN have neurons arranged in three dimensions: width, height, depth.
 
 ![CNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/_content/AliTourani-DeepLearningFromScratch-ConvolutionalNeuralNetwork-CNN.png "CNNs")
 
