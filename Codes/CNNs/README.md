@@ -9,7 +9,7 @@ CNNs (ConvNets) utilize the mathematical foundation of convolution for computer 
 | # | File | Description |
 | --- | ------------ | ------------ |
 | 0 | [Intro to CNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/0_KerasConvolutionLayer.ipynb "Intro to CNNs") | An introduction to Keras CNN layers |
-| 1 | [Digit classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/1_DigitClassification.ipynb "Digit classification") | A simple digit classification using MNIST |
+| 1 | [Digit classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/1_DigitClassification.ipynb "Digit classification") | A simple digit classifier using MNIST |
 
 ## 🧩 Use cases (to be added)
 
