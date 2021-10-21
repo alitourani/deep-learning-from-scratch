@@ -10,6 +10,8 @@ Here, you can get access to the sample implementations of ML and DL codes in Pyt
 | 1 | [So Far with Keras](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/01_So_Far_With_Keras.ipynb "So Far with Keras") | Implementation of the concepts presented before Slide-5 |
 | 2 | [Recurrent Neural Networks (RNNs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/RNNs "Recurrent Neural Networks (RNNs)") | Sample applications of RNNs |
 | 3 | [Convolutional Neural Networks (CNNs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Convolutional Neural Networks (CNNs)") | Sample applications of CNNs |
+| 4 | [Autoencoders (AEs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Convolutional Neural Networks (AEs)") | Sample applications of AEs |
+| 5 | [Generative Adversarial Networks (GANs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Generative Adversarial Networks (GANs)") | Sample applications of GANs |
 
 ## ⚙️ Pre-requistics
 
