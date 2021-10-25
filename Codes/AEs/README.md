@@ -11,5 +11,10 @@ Autoencoders are deep neural network architectures used for **Feature (represent
 | 0 | [Basic introduction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/RNNs/0_KerasRecurrentLayers.ipynb "RNN layers") | Introduction to Autoencoder codes in Keras |
 
 ## 🧩 Use cases (to be added)
-- To be defined
+- Image Reconstruction
+- Image Compression
+- Image Denoising
+- Image generation
+- Recommendation system
+- Dimensionality Reduction
 
