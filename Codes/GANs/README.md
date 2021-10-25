@@ -1,8 +1,8 @@
 # Generative Adversarial Networks (GANs)
 
-GANs are deep learning frameworks to generate new data similar to the training set. The main goal here is to sampling from a complex distribution and build some approximations of this distribution.
+GANs are deep learning frameworks to generate new data similar to the training set. The main goal here is to sample from a complex distribution and build some approximations of this distribution.
 
-![AEs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/_content/AliTourani-DeepLearningFromScratch-Autoencoder-AEpng.png "AEs")
+![GAN](https://github.com/alitourani/deep-learning-from-scratch/blob/main/_content/AliTourani-DeepLearningFromScratch-GenerativeAdversarialNetworks-GAN.png "GAN")
 
 ## 📚 Codes
 
