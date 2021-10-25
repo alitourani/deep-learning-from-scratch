@@ -11,9 +11,12 @@ GANs are deep learning frameworks to generate new data similar to the training s
 | 0 | [Basic introduction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/RNNs/0_KerasRecurrentLayers.ipynb "RNN layers") | Introduction to GANs codes in Keras |
 
 ## 🧩 Use cases (to be added)
-- Image Reconstruction
-- Image Compression
-- Image Denoising
-- Image generation
-- Recommendation system
-- Dimensionality Reduction
+- Image Generation
+- Human Face Generation
+- Generate Cartoon Characters
+- Face Aging
+- Super Resolution
+- Video Prediction
+- 3D Object Generation
+- Photo Blending
+- Text-to-Image Translation
