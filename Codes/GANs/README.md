@@ -20,3 +20,5 @@ GANs are deep learning frameworks to generate new data similar to the training s
 - 3D Object Generation
 - Photo Blending
 - Text-to-Image Translation
+- CycleGAN
+- StyledGAN
