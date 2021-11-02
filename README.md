@@ -2,11 +2,14 @@
 
 ![AliTourani-DeepLearningFromScratch](https://github.com/alitourani/deep-learning-from-scratch/blob/main/_content/AliTourani-DeepLearningFromScratch-Course.png "AliTourani-DeepLearningFromScratch")
 
-This repository contains course materials and sample impelemented codes of the **Deep Learning from Scratch** program held on Summer 2021. The main goal of this course is:
+This repository contains course materials and sample impelemented codes of the **Deep Learning from Scratch** program held on Summer 2021. The main goal of the program is:
 
 - Gaining fundamental understanding of DL capabilities
-- Participating in the development of real-world projects
-- Conducting some academic researches
+- Building and training deep neural networks
+- Participating in the development of real-world applications
+- Conducting academic research
+
+Instructor: [Ali Tourani](https://github.com/alitourani "Ali Tourani")
 
 ## 📚 Contents
 
