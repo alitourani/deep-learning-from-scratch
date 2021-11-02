@@ -15,6 +15,7 @@ Here, you can get access to the presentation slides and course materials. Please
 | 6 | [Recurrent Neural Networks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/6-Recurrent%20Neural%20Networks.pdf "Recurrent Neural Networks") | How to handle sequential data? |
 | 7 | [Convolutional Neural Networks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/7-Convolutional%20Neural%20Neworks.pdf "Convolutional Neural Networks") | Let's work on visual features! |
 | 8 | [Generative Adversarial Networks](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/8-Generative%20Adversarial%20Networks.pdf "Generative Adversarial Networks") | Deep learning, unsupervised approaches, and generating new samples |
+| 9 | [Reinforcement Learning](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Slides/9-Reinforcement%20Learning.pdf "Reinforcement Learning") | Training machines based on rewarding/punishing |
 
 
 
