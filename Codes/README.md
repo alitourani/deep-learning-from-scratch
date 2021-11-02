@@ -12,6 +12,7 @@ Here, you can get access to the sample implementations of ML and DL codes in Pyt
 | 3 | [Convolutional Neural Networks (CNNs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Convolutional Neural Networks (CNNs)") | Sample applications of CNNs |
 | 4 | [Autoencoders (AEs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Convolutional Neural Networks (AEs)") | Sample applications of AEs |
 | 5 | [Generative Adversarial Networks (GANs)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/CNNs "Generative Adversarial Networks (GANs)") | Sample applications of GANs |
+| 6 | [Deep Q-Networks (DQN)](https://github.com/alitourani/deep-learning-from-scratch/tree/main/Codes/DQNs "Deep Q-Networks (DQN)") | Implementations of Reinforcement Learning using DQNs |
 
 ## ⚙️ Pre-requistics
 
