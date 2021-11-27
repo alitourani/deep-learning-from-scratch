@@ -9,6 +9,7 @@
 | #   | File                                                                                                                                                | Description                                            |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 0   | [Salary Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Simple_Salary_Prediction.ipynb "Salary Prediction") | A very simple salary predictor based on a tiny dataset |
+| 1   | [Iris Flowers Classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Iris_Flowers_Classification.ipynb "Iris Flowers Classification") | Classification of Iris flowers using a simple ML application |
 
 ## 🧩 Use cases (to be added)
 
