@@ -14,3 +14,9 @@
 ## 🧩 Use cases (to be added)
 
 - ML using Neural Networks
+- Loan Prediction
+- Housing Prices Prediction
+- Stock Price Prediction
+- Titanic Survival
+- Wine Quality Test
+- Fake News Detection
