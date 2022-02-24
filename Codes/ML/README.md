@@ -9,10 +9,11 @@
 | #   | File                                                                                                                                                | Description                                            |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 0   | [Simple Image Augmentation](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Simple_Image_Augmentation.ipynb "Simple Image Augmentation") | Introducing simple tools to enlarge image-sets |
-| 1   | [Salary Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Simple_Salary_Prediction.ipynb "Salary Prediction") | A very simple salary predictor based on a tiny dataset |
-| 2   | [Iris Flowers Classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Iris_Flowers_Classification.ipynb "Iris Flowers Classification") | Classification of Iris flowers using a simple ML application |
-| 3   | [Multi-Label Classification by Multi-layer Perceptron](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Multi_Label_Classification.ipynb "Multi-Label Classification") | A simple Multi-layer Perceptron for classifying items |
-| 4   | [Housing Price (Owner's Income) Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Housing_Prices_Prediction.ipynb "Housing Price (Owner's Income) Prediction") | A linear regression model to predict landlords' incomes |
+| 1   | [Loading Data Sets using Kaggle API](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Load_Kaggle_Datasets.ipynb "Loading Data Sets using Kaggle API") | How can we load datasets directly from Kaggle? |
+| 2   | [Salary Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Simple_Salary_Prediction.ipynb "Salary Prediction") | A very simple salary predictor based on a tiny dataset |
+| 3   | [Iris Flowers Classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Iris_Flowers_Classification.ipynb "Iris Flowers Classification") | Classification of Iris flowers using a simple ML application |
+| 4   | [Multi-Label Classification by Multi-layer Perceptron](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Multi_Label_Classification.ipynb "Multi-Label Classification") | A simple Multi-layer Perceptron for classifying items |
+| 5   | [Housing Price (Owner's Income) Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Housing_Prices_Prediction.ipynb "Housing Price (Owner's Income) Prediction") | A linear regression model to predict landlords' incomes |
 
 ## 🧩 Use cases (to be added)
 
