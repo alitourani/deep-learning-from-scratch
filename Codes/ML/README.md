@@ -13,11 +13,10 @@
 | 2   | [Salary Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Simple_Salary_Prediction.ipynb "Salary Prediction") | A very simple salary predictor based on a tiny dataset |
 | 3   | [Iris Flowers Classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Iris_Flowers_Classification.ipynb "Iris Flowers Classification") | Classification of Iris flowers using a simple ML application |
 | 4   | [Multi-Label Classification by Multi-layer Perceptron](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Multi_Label_Classification.ipynb "Multi-Label Classification") | A simple Multi-layer Perceptron for classifying items |
-| 5   | [Housing Price (Owner's Income) Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Housing_Prices_Prediction.ipynb "Housing Price (Owner's Income) Prediction") | A linear regression model to predict landlords' incomes |
+| 5   | [Housing Price Prediction](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/ML/Linear_Regression_Housing_Prices_Prediction.ipynb "Housing Price (Owner's Income) Prediction") | A linear regression model to predict housing prices based on incomes |
 
 ## 🧩 Use cases (to be added)
 
-- ML using Neural Networks
 - Loan Prediction
 - Stock Price Prediction
 - Titanic Survival
