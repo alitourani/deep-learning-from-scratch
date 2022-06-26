@@ -6,11 +6,11 @@ CNNs (ConvNets) utilize the mathematical foundation of convolution for computer 
 
 ## 📚 Codes
 
-| #   | File                                                                                                                                                                                                      | Description                                               |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 0   | [Intro to CNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/0_KerasConvolutionLayer.ipynb "Intro to CNNs")                                                              | An introduction to Keras CNN layers                       |
-| 1   | [Digit classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/1_DigitClassification.ipynb "Digit classification")                                                  | A simple digit classifier using MNIST                     |
-| 2   | [Image classification using Inception 3.0](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/2_ImageClassificationInception.ipynb "Image classification using Inception 3.0") | A simple image classifier using Inception 3.0 on imageNet |
+| #   | File                                                                                                                                                                                                                             | Description                                                               |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 0   | [Intro to CNNs](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/0_KerasConvolutionLayer.ipynb "Intro to CNNs")                                                                                     | An introduction to Keras CNN layers                                       |
+| 1   | [Digit classification](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/1_DigitClassification.ipynb "Digit classification")                                                                         | A simple digit classifier using MNIST                                     |
+| 2   | [Image classification using VGG-16, VGG-19, and ResNet-50](https://github.com/alitourani/deep-learning-from-scratch/blob/main/Codes/CNNs/2_ImageClassification.ipynb "Image classification using VGG-16, VGG-19, and ResNet-50") | A simple image classifier using VGG-16, VGG-19, and ResNet-50 on imageNet |
 
 ## 🧩 Use cases (to be added)
 
